@@ -1,4 +1,5 @@
 # Voice Recorder
+<img src="VoiceRecorder/preview.png" width="400">
 
 A simple tool to record your voice using 8-bit PCM audio.
 
